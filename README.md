@@ -32,7 +32,7 @@ A sample social mobile application built with React Native and TypeScript.
 
 ## Screenshots
 
-![Screenshot 1](/SocialApp/assets/Screenshot_1724011524.png)
-![Screenshot 2](/SocialApp/assets/Screenshot_1724011414.png)
-![Screenshot 3](/SocialApp/assets/Screenshot_1724011489.png)
-![Screenshot 4](/SocialApp/assets/Screenshot_1724011478.png)
+![Screenshot 1](./assets/Screenshot_1724011524.png)
+![Screenshot 2](./assets/Screenshot_1724011414.png)
+![Screenshot 3](./assets/Screenshot_1724011489.png)
+![Screenshot 4](./assets/Screenshot_1724011478.png)
