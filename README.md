@@ -13,7 +13,7 @@ A sample social mobile application built with React Native and TypeScript.
 1. Clone the repository:
    git clone https://github.com/Ahmed-Osama728/react_native_SocialApp.git
    cd SocialApp
-2. npm install
+2. npm install or yarn install
 
 ## Start the development server:
 
